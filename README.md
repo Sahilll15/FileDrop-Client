@@ -38,3 +38,5 @@ Note: You need to set up an email service (e.g., SMTP) and obtain the required c
 
 If you would like to contribute to the development of FileDrop Frontend, please follow the guidelines in CONTRIBUTING.md.
 
+Images:-
+![1](https://github.com/Sahilll15/FileDrop-Client/assets/109215419/745d4035-e83b-46a4-9670-d8192f2f4b37)
